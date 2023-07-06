@@ -1,0 +1,16 @@
+.bg-primary{
+ background-color: rgb(43, 74, 109);   
+}
+.mt20{
+    margin-top: 20px;
+}
+
+.container-custom{
+    width:90% !important;
+    margin: auto;
+}
+
+.item{
+    margin-left: 10px;
+    
+}
